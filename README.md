@@ -7,7 +7,7 @@
   - Python,
   - React.js & Next.js
   - Vue.js
-  - VB.NET
+  - MATLAB
 - 🙌 I am more than happy to collaborate on any type of project, even if it is unfamiliar as I will learn more along the way!
 - 📧 Feel free to contact me on jake@jaketbailey.co.uk.
 
