@@ -1,4 +1,4 @@
-👋 Hi, I’m Jake Bailey, I have just finished my Placement Year working as a Combat Systems Software Engineer at BAE Systems Naval Ships. In September I will be heading back to University to finish studying for my BSc (Hons) Software Engineering degree at the University of Portsmouth. 
+👋 Hi, I’m Jake Bailey, I am a final year student completing a BSc (Hons) Software Engineering degree at the University of Portsmouth. 
 
 - 🌱 I’m currently developing my skills with Golang, TypeScript and Astro.
 - 🧑‍💻 I have the most experience with:
