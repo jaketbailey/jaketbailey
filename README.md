@@ -1,4 +1,4 @@
-👋 Hi, I’m Jake Bailey, I am a final year student completing a BSc (Hons) Software Engineering degree at the University of Portsmouth. 
+👋 Hi, I’m Jake Bailey! I am currently completing my final year for a BSc (Hons) Software Engineering degree at the University of Portsmouth. 
 
 - 🌱 I’m currently developing my skills with Golang, TypeScript and Astro.
 - 🧑‍💻 I have the most experience with:
