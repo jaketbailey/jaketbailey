@@ -1,13 +1,14 @@
-👋 Hi, I’m Jake Bailey! I am currently completing my final year for a BSc (Hons) Software Engineering degree at the University of Portsmouth. 
+👋 Hi, I’m Jake Bailey! I am a Gradute Software Engineer at BAE Systems, having recently completed my final year for a BSc (Hons) Software Engineering degree at the University of Portsmouth with a First Class Honours. 
 
-- 🌱 I’m currently developing my skills with Golang, TypeScript and Astro.
+- 🌱 I’m currently developing my skills with Rust.
 - 🧑‍💻 I have the most experience with:
+  - Golang
   - JS/HTML/CSS
   - Node.js
   - Python,
   - React.js & Next.js
   - Vue.js
-  - MATLAB
+  - Astro
 - 🙌 I would love to collaborate on any type of project, even if it is unfamiliar, as I will learn more along the way!
 - 📧 Feel free to contact me at jake@jaketbailey.co.uk.
 
