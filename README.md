@@ -2,12 +2,12 @@
 
 - 🌱 I’m currently developing my skills with Rust.
 - 🧑‍💻 I have the most experience with:
+  - Rust
   - Golang
   - JS/HTML/CSS
   - Node.js
   - Python,
   - React.js & Next.js
-  - Vue.js
   - Astro
 - 🙌 I would love to collaborate on any type of project, even if it is unfamiliar, as I will learn more along the way!
 - 📧 Feel free to contact me at jake@jaketbailey.co.uk.
