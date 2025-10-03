@@ -1,4 +1,4 @@
-👋 Hi, I’m Jake Bailey! I am a Graduate Software Engineer at BAE Systems, having recently completed my final year for a BSc (Hons) Software Engineering degree at the University of Portsmouth with a First Class Honours. 
+👋 Hi, I’m Jake Bailey! I am a Software Engineer at BAE Systems.
 
 - 🌱 I’m currently developing my skills with Rust.
 - 🧑‍💻 I have the most experience with:
